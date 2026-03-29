@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="hhttps://opop.pro/y2WoEfLFh19YXef/?days=7" tvg-shift="-1" catchup-type="shift"
+#EXTM3U url-tvg="hhttps://opop.pro/y2WoEfLFh19YXef/?days=7" catchup-type="shift"
 #EXTINF:0 CUID="1" tvg-name="LNK HD" tvg-ID="lnk.lt" tvg-shift="-1" catchup-days="7" tvg-logo="https://af-play.com/storage/images/pack_logos/301b1c67f327a81cf63f6690a8afa325.png" group-title="Baltic",LNK HD
 https://tchaikovsky.af-stream.com:991/s/mnprosmp/lnk-hd-lt/video.m3u8
 #EXTINF:0 CUID="2" tvg-name="LRT HD" tvg-ID="lrt.lt" tvg-shift="-1" catchup-days="7" tvg-logo="https://af-play.com/storage/images/channel_logos/35a24709c488ab272c6d4553910d865d.png" group-title="Baltic",LRT HD
