@@ -1,0 +1,79 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/p192y7pdrqcp91pjnmeg" catchup-type="shift"
+#EXTINF:-1 tvg-id="LNK(src05).lt" tvg-name="LNK HD" tvg-logo="https://af-play.com/storage/images/pack_logos/301b1c67f327a81cf63f6690a8afa325.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",LNK HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/lnk-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="LRTTelevizija(src05).lt" tvg-name="LRT HD" tvg-logo="https://af-play.com/storage/images/channel_logos/35a24709c488ab272c6d4553910d865d.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",LRT HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/lrt-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="LRTPLIUS(src09).lt" tvg-name="LRT Plus HD" tvg-logo="https://af-play.com/storage/images/channel_logos/53a593411bf8ff90a0ffe83751992542.png" group-title="Baltic" tvg-shift="+0" catchup-days="7",LRT Plus HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/lrt-plus-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="TV3(src05).lt" tvg-name="TV3 HD LT" tvg-logo="https://af-play.com/storage/images/pack_logos/c091212ad9436f8cef1049e9f59b5364.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",TV3 HD LT
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="BTV(src05).lt" tvg-name="BTV HD" tvg-logo="https://af-play.com/storage/images/pack_logos/4dff9b78de72d5eafa5b33e0eb696664.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",BTV HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/btv-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="TV6(src05).lt" tvg-name="TV6 HD LT" tvg-logo="https://af-play.com/storage/images/pack_logos/66e9a0f5d1a8065e53ff1ac6ec9c7d32.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",TV6 HD LT
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv6-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="BalticumTV(src05).lt" tvg-name="Balticum HD" tvg-logo="https://af-play.com/storage/images/pack_logos/d57191e60a2bee340bf4289eba7ef51c.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Balticum HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/balticum-lt/video.m3u8
+#EXTINF:-1 tvg-id="BalticumAuksinis(src05).lt" tvg-name="Balticum Auksinis HD" tvg-logo="https://af-play.com/storage/images/pack_logos/5f187bb984ff42ab0580f1aa436814d6.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Balticum Auksinis HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/balticum-auksinis-lt/video.m3u8
+#EXTINF:-1 tvg-id="Go3Films(src05).lt" tvg-name="Go3 Films HD" tvg-logo="https://af-play.com/storage/images/channel_logos/47ad0305e04b3e7884737cc201fd379a.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Go3 Films HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-film-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="Filmzone(src05).lt" tvg-name="Filmzone HD" tvg-logo="https://af-play.com/storage/images/channel_logos/c441f9991f768a28991e96de1d98851b.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Filmzone HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/filmzone-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="Filmzoneplus(src05).lt" tvg-name="Filmzone Plus HD" tvg-logo="https://af-play.com/storage/images/pack_logos/36bdca258736fb08444343c51b234144.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Filmzone Plus HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/filmzone-plus-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="TV1(src05).lt" tvg-name="TV1 HD" tvg-logo="https://af-play.com/storage/images/pack_logos/c883bab5312373f8cf7ca710904e20d5.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",TV1 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv1-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="DelfiTV(src05).lt" tvg-name="Delfi HD" tvg-logo="https://af-play.com/storage/images/pack_logos/aedb536428eeb853bbfcdf2d61b43799.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Delfi HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/delfi-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="TV8(src05).lt" tvg-name="TV8 HD LT" tvg-logo="https://af-play.com/storage/images/pack_logos/3d7c0727515e49be395428e5d2fc83b5.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",TV8 HD LT
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv8-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="LietuvosrytasTV(src05).lt" tvg-name="Lietuvos Rytas HD" tvg-logo="https://af-play.com/storage/images/pack_logos/01b158535fb02406c5196c34b6bcdf2e.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Lietuvos Rytas HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/lietuvos-rytas-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="InfoTV(src09).lt" tvg-name="Info TV HD" tvg-logo="https://af-play.com/storage/images/pack_logos/e4485e1d0ae9d58b40ac65d8a39085fc.png" group-title="Baltic" tvg-shift="+0" catchup-days="7",Info TV HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/info-tv-lt/video.m3u8
+#EXTINF:-1 tvg-id="siauliu-televizija-hd-lt" tvg-name="Siauliu Televizija HD" tvg-logo="https://af-play.com/storage/images/pack_logos/57379d44c1804e8410ecf6309aa66d51.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Siauliu Televizija HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/siauliu-televizija-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="Duo3(src09).lt" tvg-name="Duo 3 HD" tvg-logo="https://af-play.com/storage/images/channel_logos/9d2e576740b00135ef9d456c8c8920a4.png" group-title="Baltic" tvg-shift="+0" catchup-days="7",Duo 3 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/duo3-lv-hd/video.m3u8
+#EXTINF:-1 tvg-id="Duo6(src05).lt" tvg-name="Duo 6 HD" tvg-logo="https://af-play.com/storage/images/pack_logos/9aad85a373a6ee4368d4360284ca072e.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Duo 6 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/duo6-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="Duo5(src05).lt" tvg-name="Duo 5 HD" tvg-logo="https://af-play.com/storage/images/channel_logos/b37238b3df919bf0139751ffd5dab56e.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Duo 5 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/duo5-lt-lv-hd/video.m3u8
+#EXTINF:-1 tvg-id="ViasatKino(src05).lt" tvg-name="Viasat Kino HD" tvg-logo="https://af-play.com/storage/images/channel_logos/05d075fe54b5fc31d119c94654f919e1.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Viasat Kino HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/viasat-kino-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoAction(src05).lt" tvg-name="Viasat Kino Action HD" tvg-logo="https://af-play.com/storage/images/channel_logos/88fa5f38874d1cafc38679ef40a34370.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Viasat Kino Action HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/viasat-kino-action-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoComedy(src09).lt" tvg-name="Viasat Kino Comedy HD" tvg-logo="https://af-play.com/storage/images/channel_logos/9c1a04ffdc5f55ecb74dffc9e9c81277.png" group-title="Baltic" tvg-shift="+0" catchup-days="7",Viasat Kino Comedy HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/viasat-kino-comedy-lv-hd/video.m3u8
+#EXTINF:-1 tvg-id="Discovery(src05).lt" tvg-name="Discovery HD" tvg-logo="https://af-play.com/storage/images/channel_logos/e503c63f229b69cb84d342d2e9e85466.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Discovery HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/discovery-lv-hd/video.m3u8
+#EXTINF:-1 tvg-id="ViasatNature(src05).lt" tvg-name="Viasat Nature HD" tvg-logo="https://af-play.com/storage/images/channel_logos/ff82495b192c8658280cbda6b5721634.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Viasat Nature HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/viasat-nature-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory(src05).lt" tvg-name="Viasat History HD" tvg-logo="https://af-play.com/storage/images/channel_logos/a33cb15fb944a2e01af9ba4a67ed63d1.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Viasat History HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/viasat-history-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore(src05).lt" tvg-name="Viasat Explore HD" tvg-logo="https://af-play.com/storage/images/channel_logos/b692b0c42b94beffefd0f8735a4027da.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Viasat Explore HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/viasat-explore-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="Sport1(src05).lt" tvg-name="Sport 1 HD" tvg-logo="https://af-play.com/storage/images/pack_logos/d01b4bd0c389467dcbedb98e48234650.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Sport 1 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/sport1-hd-lt/video.m3u8
+#EXTINF:-1 tvg-id="Go3Sport1(src05).lt" tvg-name="Go3 Sport 1 HD" tvg-logo="https://af-play.com/storage/images/channel_logos/56ce4334c1ccd829a54c633534b44d2f.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Go3 Sport 1 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-sport-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="Go3Sport2(src05).lt" tvg-name="Go3 Sport 2 HD" tvg-logo="https://af-play.com/storage/images/channel_logos/2122e9008a75d6390a3bba89a355495d.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Go3 Sport 2 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-sport2-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="Go3Sport3(src05).lt" tvg-name="Go3 Sport 3 HD" tvg-logo="https://af-play.com/storage/images/channel_logos/2bb55dad3686e7ad502ad292b561e288.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Go3 Sport 3 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-sport3-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="Go3Sport4(src05).lt" tvg-name="Go3 Sport 4 HD" tvg-logo="https://af-play.com/storage/images/channel_logos/60c3259c304bf3fe70aa0c3afc480aa2.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Go3 Sport 4 HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-sport4-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="Go3SportOpen(src05).lt" tvg-name="Go3 Sport Open HD" tvg-logo="https://af-play.com/storage/images/channel_logos/a1138bbc7156f96ead5477dd38e3732c.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Go3 Sport Open HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-sport-open-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="EpicDrama(src05).lt" tvg-name="Epic Drama HD" tvg-logo="https://af-play.com/storage/images/pack_logos/68dc1dda9406f8444e7cd14328aa4629.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Epic Drama HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/epic-drama-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="TV3Plus(src05).lt" tvg-name="TV3 Plus HD" tvg-logo="https://af-play.com/storage/images/channel_logos/2535aef6d02a7e1b80d714c9596723ee.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",TV3 Plus HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/3plus-hd/video.m3u8
+#EXTINF:-1 tvg-id="BalticumPlatinum(src09).lt" tvg-name="Balticum Platinum HD" tvg-logo="https://af-play.com/storage/images/pack_logos/699c5493258d6fc8921d1c136a76638e.png" group-title="Baltic" tvg-shift="+0" catchup-days="7",Balticum Platinum HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/balticum-platinum-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="2TV(src09).lt" tvg-name="2TV HD" tvg-logo="https://af-play.com/storage/images/channel_logos/33c273a3ff6f860e9ba68f258c6dfbaa.png" group-title="Baltic" tvg-shift="+0" catchup-days="7",2TV HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/2tv-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="KidzoneMini(src05).lt" tvg-name="Kidzone Mini HD" tvg-logo="https://af-play.com/storage/images/channel_logos/4935d1b858377450d8d4567b5a2fef9c.png" group-title="Baltic" tvg-shift="+2" catchup-days="7",Kidzone Mini HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/kidzone-mini-lt-hd/video.m3u8
+#EXTINF:-1 tvg-id="love-channel-il-hd" tvg-name="Love Channel HD" tvg-logo="https://af-play.com/storage/images/channel_logos/adf6e2936a07b0ddbe5a38f3042b9dbc.png" group-title="Israel" tvg-shift="+2",Love Channel HD
+https://tchaikovsky.af-stream.com:991/s/mnprosmp/love-channel-il-hd/video.m3u8
