@@ -5,7 +5,7 @@ https://tchaikovsky.af-stream.com:991/s/mnprosmp/lnk-hd-lt/video.m3u8
 https://tchaikovsky.af-stream.com:991/s/mnprosmp/lrt-hd-lt/video.m3u8
 #EXTINF:0 CUID="3" tvg-name="LRT Plus HD" tvg-ID="lrtplus.lt" tvg-shift="-1" catchup-days="7" tvg-logo="https://af-play.com/storage/images/channel_logos/53a593411bf8ff90a0ffe83751992542.png" group-title="Baltic",LRT Plus HD
 https://tchaikovsky.af-stream.com:991/s/mnprosmp/lrt-plus-lt-hd/video.m3u8
-#EXTINF:0 CUID="4" tvg-name="TV3 HD LT" tvg-ID="tv3.lt" tvg-shift="-9" catchup-days="7" tvg-logo="https://af-play.com/storage/images/pack_logos/c091212ad9436f8cef1049e9f59b5364.png" group-title="Baltic",TV3 HD LT
+#EXTINF:0 CUID="4" tvg-name="TV3 HD LT" tvg-ID="tv3.lt" tvg-shift="-1" catchup-days="7" tvg-logo="https://af-play.com/storage/images/pack_logos/c091212ad9436f8cef1049e9f59b5364.png" group-title="Baltic",TV3 HD LT
 https://tchaikovsky.af-stream.com:991/s/mnprosmp/tv3-hd-lt/video.m3u8
 #EXTINF:0 CUID="5" tvg-name="BTV HD" tvg-ID="btv.lt" tvg-shift="-1" catchup-days="7" tvg-logo="https://af-play.com/storage/images/pack_logos/4dff9b78de72d5eafa5b33e0eb696664.png" group-title="Baltic",BTV HD
 https://tchaikovsky.af-stream.com:991/s/mnprosmp/btv-hd-lt/video.m3u8
